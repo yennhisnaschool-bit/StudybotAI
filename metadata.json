@@ -1,0 +1,6 @@
+{
+  "name": "StudyBot AI - Cổng Học Tập Thông Minh",
+  "description": "Bot học tập thông minh yêu cầu học sinh vượt qua câu hỏi tương tác phụ để tư duy trước khi nhận đáp án từ AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
